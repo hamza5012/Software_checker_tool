@@ -1,2 +1,1 @@
-# Software_checker_tool
-Hello Everyone , I am a dedicated Linux enthusiast with a passion for developing tools that enhance user experience and efficiency. Currently, I am focused on creating innovative solutions for managing and monitoring services on Linux systems. With a strong background in scripting and automation
+Hello Everyone , I am a dedicated Linux enthusiast with a passion for developing tools that enhance user experience and efficiency. Currently, I am focused on creating innovative solutions for managing and monitoring services on Linux systems. With a strong background in scripting and automation, I strive to contribute to the advancement of technology in the Linux community. Let's connect and explore opportunities to collaborate and learn from each other.
